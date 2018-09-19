@@ -4,10 +4,14 @@ Simple Windows Forms Application, which reads SQL queries from any given directo
 Results are returned into an Excel/CSV format, usable for reporting purposes.
 
 <h3>Supports:</h3>
-IBM DB2 (iSeries)
-PostgreSQL
-Microsoft SQL Server
-
+<ul>
+<li>IBM DB2 (iSeries)</li>
+<li>PostgreSQL</li>
+<li>Microsoft SQL Server</li>
+</ul>
+  
 <h3>Requirements:</h3>
-.NET 4
-Respective ODBC drivers (32bit) installed on local workstation.
+<ul>
+<li>.NET 4</li>
+<li>Respective ODBC drivers (32bit) installed on local workstation.</li>
+</ul>
